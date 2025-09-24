@@ -23,9 +23,6 @@ What would you like to work on today? Feel free to describe any coding task, que
 
 ---
 
-**User**
-
-can you creat a ecommerce website
 
 ---
 
@@ -2025,4 +2022,5 @@ The ecommerce website should now be accessible at:
 - ✅ Modern UI with Tailwind CSS
 
 The website is now fully functional! If you encounter any issues or want to customize anything, just let me know!
+
 
